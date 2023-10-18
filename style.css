@@ -1,0 +1,21 @@
+.contenido{
+    width: 996px;
+    margin-left: 250px;
+
+    display: flex;
+    justify-content: left;
+    align-items: center;
+
+    background-color: rgba(43, 186, 208, 40%);
+    padding: 10px;
+    
+}
+
+.txt{
+    margin-right: 20px;
+}
+
+
+.imagen{
+    width: 250px;
+}
